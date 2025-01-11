@@ -38,23 +38,23 @@ function App() {
             </p>
             <div className="relative w-full h-[600px] rounded-lg overflow-hidden shadow-2xl">
               <Slider {...sliderSettings}>
-                <div className="h-600px]">
+                <div className="h-[600px]">
                   <img 
-                    src="https://via.placeholder.com/1200x600" 
+                    src="https://evil-bane.github.io/srm-one-dl/images/HomePage.png" 
                     alt="App Screenshot 1"
                     className="object-cover w-full h-full"
                   />
                 </div>
                 <div className="h-[600px]">
                   <img 
-                    src="https://via.placeholder.com/1200x600" 
+                    src="https://evil-bane.github.io/srm-one-dl/images/StudentPortal.png" 
                     alt="App Screenshot 2"
                     className="object-cover w-full h-full"
                   />
                 </div>
                 <div className="h-[600px]">
                   <img 
-                    src="https://via.placeholder.com/1200x600" 
+                    src="https://evil-bane.github.io/srm-one-dl/images/EventsPage.png" 
                     alt="App Screenshot 3"
                     className="object-cover w-full h-full"
                   />
@@ -72,7 +72,7 @@ function App() {
           <FeatureSection 
             title="One Time Login"
             description="Never worry about logging in repeatedly. Our secure one-time login system remembers your credentials while maintaining the highest security standards. Access all your college resources with just one tap!"
-            image="https://via.placeholder.com/800x600"
+            image="https://evil-bane.github.io/srm-one-dl/images/StudentPortal.png"
             reversed={false}
           />
 
@@ -80,7 +80,7 @@ function App() {
           <FeatureSection 
             title="All-In-One Connectivity"
             description="Connect to every aspect of SRM IST through a single platform. Access academic resources, campus services, and administrative tools seamlessly. No more juggling between different portals!"
-            image="https://via.placeholder.com/800x600"
+            image="https://evil-bane.github.io/srm-one-dl/images/HomePage.png"
             reversed={true}
           />
 
@@ -88,7 +88,7 @@ function App() {
           <FeatureSection 
             title="Comprehensive Grade Management"
             description="Track your academic progress with our detailed grade monitoring system. View semester-wise performance, calculate CGPA, and analyze your academic trajectory with intuitive visualizations and progress tracking."
-            image="https://via.placeholder.com/800x600"
+            image="https://evil-bane.github.io/srm-one-dl/images/StudentPortal.png"
             reversed={false}
           />
 
@@ -96,7 +96,7 @@ function App() {
           <FeatureSection 
             title="Smart Attendance Tracking"
             description="Stay on top of your attendance with our automated calculator. Get real-time updates on your attendance percentage, receive alerts when you're running low, and plan your classes better with predictive analytics."
-            image="https://via.placeholder.com/800x600"
+            image="https://evil-bane.github.io/srm-one-dl/images/StudentPortal.png"
             reversed={true}
           />
 
@@ -104,7 +104,7 @@ function App() {
           <FeatureSection 
             title="Community Engagement"
             description="Share your thoughts, achievements, and updates with the entire SRM community. Create engaging posts, interact with peers, and stay connected with what's happening around campus. Built-in moderation ensures a healthy discussion environment."
-            image="https://via.placeholder.com/800x600"
+            image="https://evil-bane.github.io/srm-one-dl/images/HomePage.png"
             reversed={false}
           />
 
@@ -112,7 +112,7 @@ function App() {
           <FeatureSection 
             title="Event Hub"
             description="Never miss out on campus events again! Browse upcoming events, register for workshops, track technical symposiums, and cultural festivals. Direct connection with organizing clubs makes participation easier than ever."
-            image="https://via.placeholder.com/800x600"
+            image="https://evil-bane.github.io/srm-one-dl/images/EventsPage.png"
             reversed={true}
           />
         </section>
